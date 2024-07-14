@@ -42,7 +42,7 @@
             bindings = <&lt>;
             #binding-cells = <1>;
             ignore-modifiers;
-            release-after-ms = <1000>;
+            release-after-ms = <10000>;
         };
     };
 
