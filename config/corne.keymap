@@ -117,7 +117,7 @@
 
         macro_layer {
             bindings = <
-&none  &kp LG(LS(NUMBER_1))  &kp LG(LS(NUMBER_2))  &kp LG(LS(NUMBER_3))  &kp LG(NUMBER_4)      &kp LG(LS(NUMBER_5))    &kp RG(NUMBER_1)  &kp RG(NUMBER_2)   &kp RG(NUMBER_3)   &kp RG(NUMBER_4)  &kp RG(N5)        &none
+&none  &kp LG(LS(NUMBER_1))  &kp LG(LS(NUMBER_2))  &kp LG(LS(NUMBER_3))  &kp LG(LS(NUMBER_4))  &kp LG(LS(NUMBER_5))    &kp RG(NUMBER_1)  &kp RG(NUMBER_2)   &kp RG(NUMBER_3)   &kp RG(NUMBER_4)  &kp RG(N5)        &none
 &none  &kp LG(LS(NUMBER_6))  &kp LG(LS(NUMBER_7))  &kp LG(LS(NUMBER_8))  &kp LG(LS(NUMBER_9))  &kp LG(LS(NUMBER_0))    &kp RG(NUMBER_6)  &kp RG(NUMBER_7)   &kp RG(NUMBER_8)   &kp RG(NUMBER_9)  &kp RG(NUMBER_0)  &none
 &none  &none                 &none                 &none                 &none                 &none                   &none             &none              &none              &none             &none             &none
                                                    &none                 &none                 &none                   &kp RG(SPACE)     &kp RG(RS(SPACE))  &kp RG(SEMICOLON)
